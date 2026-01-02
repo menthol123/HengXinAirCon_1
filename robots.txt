@@ -8,7 +8,7 @@ Disallow: /private/
 Disallow: /temp/
 
 # 指定网站地图位置
-Sitemap: https://www.hengxinac.com/sitemap.xml
+Sitemap: https://kt.600044.xyz/sitemap.xml
 
 # 指定主机
-Host: www.hengxinac.com
+Host: kt.600044.xyz
