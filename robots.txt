@@ -1,0 +1,14 @@
+User-agent: *
+Disallow:
+Allow: /
+
+# 禁止访问管理后台等敏感目录
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# 指定网站地图位置
+Sitemap: https://www.hengxinac.com/sitemap.xml
+
+# 指定主机
+Host: www.hengxinac.com
